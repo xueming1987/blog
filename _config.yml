@@ -4,11 +4,9 @@ permalink: /:year/:month/:day/:title.html
 name: "xue ming"
 markdown: kramdown
 
-destination:
-
 author: "Maxwell"
 atom-baseurl: "https://xueming1987.github.io/"
-disqus: "gopherwood"
+disqus: ""
 
 navigations:
   - title: Archive
