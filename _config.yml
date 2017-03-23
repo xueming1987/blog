@@ -1,11 +1,11 @@
 markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "xue ming"
-markdown: kramdown
+name: "Maxwell"
+#markdown: kramdown
 
 author: "Maxwell"
-atom-baseurl: "https://xueming1987.github.io/"
+atom-baseurl: ""
 disqus: ""
 
 navigations:
